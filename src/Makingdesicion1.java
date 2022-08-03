@@ -11,7 +11,7 @@ public class Makingdesicion1 {
 		if(list[i][j]==searchValue) {
 		positionX = i;
 		positionY = j;
-		break PARENT_LOOP;
+		break;
 		}
 		}
 		}
